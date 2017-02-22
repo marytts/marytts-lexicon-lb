@@ -1,0 +1,16 @@
+ext {
+    locale = 'lb'
+}
+
+apply plugin: 'de.dfki.mary.lexicon-compiler'
+
+apply from: "$rootDir/buildLogic.gradle"
+
+compileLexicon {
+    phoneMapping = [
+            'A~:'  : 'a~',
+            'J'    : 'j',
+            's\\\\': 'S',
+            'z\\\\': 'Z'
+    ]
+}
