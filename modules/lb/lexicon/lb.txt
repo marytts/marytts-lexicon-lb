@@ -1359,7 +1359,7 @@ bucht	buXt
 bud	bu:t
 bude	bu:d@
 buden	bu:d@n
-budget	bydZ@:
+budget	bydZE:
 budgetsministerinne	bu:tg@tsminist@Rin@
 buedbidde	bu@tbid@
 buedbidden	bu@tbid@n
@@ -3601,8 +3601,8 @@ käfeg	kE:f@s\
 kafen	ka:f@n
 kaffi	kAfi:
 kaffisbiz	kAfi:sbi:ts
-kaffisläffelche	kAfi:sl{f@lch@
-kaffisläffelchen	kAfi:sl{f@lch@n
+kaffisläffelche	kAfi:sl{f@ls\@
+kaffisläffelchen	kAfi:sl{f@ls\@n
 kaffismille	kAfi:smil@
 kaffismillen	kAfi:smil@n
 käiche	k{:Is\@
