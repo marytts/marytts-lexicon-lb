@@ -1360,7 +1360,7 @@ bud	bu:t
 bude	bu:d@
 buden	bu:d@n
 budget	bydZE:
-budgetsministerinne	bu:tg@tsminist@Rin@
+budgetsministerinne	bydZE:sminist@Rin@
 buedbidde	bu@tbid@
 buedbidden	bu@tbid@n
 buede	bu@d@
