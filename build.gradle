@@ -22,12 +22,12 @@ java {
 }
 
 compileLexicon {
-    phoneMapping = [
+    phoneMapping.putAll([
             'A~:'  : 'a~',
             'J'    : 'j',
             's\\\\': 'S',
             'z\\\\': 'Z'
-    ]
+    ])
 }
 
 publishing {
