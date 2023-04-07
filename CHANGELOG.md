@@ -1,6 +1,9 @@
 Luxembourgish lexicon for MaryTTS
 =================================
 
+[Unreleased]
+------------
+
 [v0.1.1] - 2023-04-07
 ---------------------
 
@@ -27,5 +30,6 @@ Luxembourgish lexicon for MaryTTS
 
 ### Initial release
 
+[Unreleased]: https://github.com/marytts/marytts-lexicon-lb/tree/master
 [v0.1.1]: https://github.com/marytts/marytts-lexicon-lb/releases/tag/v0.1.1
 [v0.1.0]: https://github.com/marytts/marytts-lexicon-lb/releases/tag/v0.1.0
